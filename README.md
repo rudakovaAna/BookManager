@@ -18,7 +18,7 @@ Projekt graficznego systemu do zarządzania książkami, który umożliwia wyszu
 1. Sklonuj repozytorium:
     
     git clone https://github.com/rudakovaAna/BookManager
-    cd book-management-system
+    open BookManager
    
 
 2. Upewnij się, że masz zainstalowany JDK 11 lub nowszy. Możesz pobrać JDK z [oficjalnej strony Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) lub użyć OpenJDK, dostępnego [tutaj](https://jdk.java.net/).
