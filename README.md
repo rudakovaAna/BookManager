@@ -24,6 +24,6 @@ Projekt graficznego systemu do zarządzania książkami, który umożliwia wyszu
 2. Upewnij się, że masz zainstalowany JDK 11 lub nowszy. Możesz pobrać JDK z [oficjalnej strony Oracle](https://www.oracle.com/java/technologies/javase-downloads.html) lub użyć OpenJDK, dostępnego [tutaj](https://jdk.java.net/).
 
 ### 🚀 Uruchomienie
-Aby uruchomić aplikację, skompiluj kod i uruchom plik `Main.java`:
+Aby uruchomić aplikację - uruchom plik `Main.java`:
 
 java -cp src Main
